@@ -1,0 +1,6 @@
+/* Q. Construct an Expression Tree from postfix and prefix expression. Perform 
+recursive and non- recursive In-order, pre-order and post-order traversals.
+
+b) Prefix Expression:- */
+
+
